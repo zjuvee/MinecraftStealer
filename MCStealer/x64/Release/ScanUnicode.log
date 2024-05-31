@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ScanUnicode.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BLProcess.cpp
+  Main.cpp
+  MinecraftStealer3.cpp
+  MinecraftStealer.cpp
+  Passwords.cpp
+  Generating code
+  945 of 961 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    229 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ScanUnicode.vcxproj -> D:\repos\MinecraftStealer - Copy\x64\Release\MinecraftStealer.exe
