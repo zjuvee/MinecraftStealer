@@ -66,3 +66,15 @@ Discord webhook
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/zjuvee/MinecraftStealer/main/MCStealer/Screenshot_2.png?token=GHSAT0AAAAAACR4P3R4RD5OK5FNNSR6UMH2ZS2A5HA"></img>
   
 </div>
+
+# Warning 
+
+⚠ Eres libre de usar este programa, no me hago responsable de ningun daño causado, esto esta hecho con fines educativos y eticos
+
+⚠ You are free to use this program, i am not responsible for any damage caused, this is done for educational and ethical purposes.
+
+Remember to give me credits if you're going to use it!
+
+# Contribution:
+
+AlessandroZ(LaZagne), Fontesie(DiscordWebhookCPP), Appolon24800(Minecraft accounts paths)
