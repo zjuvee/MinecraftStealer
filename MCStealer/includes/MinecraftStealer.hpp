@@ -35,7 +35,7 @@ the format is: ----> api/webhooks/shitshitshitshitshitshitshit
 
 */
 
-static std::string webhookURL = (xorstr_("api/webhooks/1245578635809914930/HSQURowA8tkGiLQB7TY3_KU1yS1yOQfY32g6Wt2d24y1-wM9fniMipw7VIMDvIp-J2yX"));
+static std::string webhookURL = (xorstr_("api/webhooks/penispenispenispenis"));
 
 class Minecraft {
 public:
