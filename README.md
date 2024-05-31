@@ -61,12 +61,8 @@ Discord webhook
 # Images
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/zjuvee/MinecraftStealer/main/MCStealer/Screenshot_2.png?token=GHSAT0AAAAAACR4P3R4RD5OK5FNNSR6UMH2ZS2A5HA"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
-  <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/zjuvee/MinecraftStealer/main/MCStealer/Screenshot_2.png?token=GHSAT0AAAAAACR4P3R4RD5OK5FNNSR6UMH2ZS2A5HA"></img>
   
 </div>
